@@ -1,4 +1,4 @@
-FROM ruby:2.1
+FROM ruby:2.4
 
 # Add Gemfile
 ADD Gemfile /
