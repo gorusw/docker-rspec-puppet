@@ -1,0 +1,19 @@
+  gem install "rake"
+  gem install puppet -v '~> 4.10.8'
+  gem install "rspec"
+  gem install "rspec-puppet"
+  gem install "puppetlabs_spec_helper"
+  gem install "metadata-json-lint"
+  gem install "rspec-puppet-facts"
+  gem install 'rubocop'
+  gem install 'semantic_puppet'
+
+  gem install "puppet-lint-absolute_classname-check"
+  gem install "puppet-lint-leading_zero-check"
+  gem install "puppet-lint-trailing_comma-check"
+  gem install "puppet-lint-version_comparison-check"
+  gem install "puppet-lint-classes_and_types_beginning_with_digits-check"
+  gem install "puppet-lint-unquoted_string-check"
+  gem install 'puppet-lint-resource_reference_syntax'
+
+  gem install 'json_pure'
